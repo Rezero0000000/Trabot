@@ -4,9 +4,8 @@ const Point = () => {
     return (
         <>
         <section className="px-5 xs:px-7 font-poppins sm:flex sm:items-center lg:mt-16 ">
-            <div className="flex justify-center mt-20 xs:mt-24 sm:mt-20 sm:w-full">
-                <img src="/images/island1.png" className="w-36 sm:w-40 sm:h-[14.5rem] md:w-[11.5rem] md:h-[17.5rem] lg:w-[12.5rem] lg:h-[18.5rem] mr-20" alt="" />
-                <img src="/images/island2.png" className="w-32 sm:w-26 sm:mt-32 md:w-36 absolute mt-24 ml-28 lg:w-40" alt="" />
+            <div className="flex justify-center mt-20 xs:mt-24 sm:mt-20 p-5 md:p-0 sm:w-full">
+                <img src="/images/island.png" className="" alt="" />
             </div>
             <div className="mt-32 sm:mt-[4.5rem] sm:w-full">
                 <p className="text-[#0E7D88] text-[12px] font-semibold md:text-sm lg:text-base">Adventure Point</p>

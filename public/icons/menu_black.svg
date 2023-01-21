@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="515px" height="420.00003px" viewBox="0 0 515 420.00003" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L515 0L515 420L0 420L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="menu_black">
+    <path d="M0 0L515 0L515 420L0 420L0 0Z" id="Background" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g id="menu">
+      <path d="M0 0L515 0L515 420L0 420L0 0L0 0Z" id="Background" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+      <g id="menu#1">
+        <path d="M1.52588e-05 0L515 0L515 420L1.52588e-05 420L1.52588e-05 0L1.52588e-05 0L1.52588e-05 0Z" id="Background#1" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+        <path d="M489.484 69.4488L26.6991 69.4488C11.4425 69.4488 0 54.567 0 34.7244C0 14.8819 11.4425 0 26.6991 0L488.213 0C503.47 0 514.912 14.8819 514.912 34.7244C516.183 52.9134 503.47 69.4488 489.484 69.4488L489.484 69.4488L489.484 69.4488L489.484 69.4488ZM489.484 244.724L26.6991 244.724C11.4425 244.724 0 229.843 0 210C0 190.158 11.4425 175.276 26.6991 175.276L488.213 175.276C503.47 175.276 514.912 190.158 514.912 210C514.912 229.843 503.47 244.724 489.484 244.724L489.484 244.724L489.484 244.724L489.484 244.724ZM489.484 420L26.6991 420C11.4425 420 0 405.118 0 385.276C0 365.433 11.4425 350.551 26.6991 350.551L488.213 350.551C503.47 350.551 514.912 365.433 514.912 385.276C514.912 405.118 503.47 420 489.484 420L489.484 420L489.484 420L489.484 420Z" id="Shape" fill="#0A2734" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
