@@ -6,7 +6,7 @@ const Footer = () => {
             <footer className="bg-[#087A85] mt-20 px-3 py-9">
                 <div>
                     <div className="flex">
-                        <img src="/icons/boat.svg" alt="" className="w-7"/>
+                        <img src="/icons/boat.svg" alt="Trabot" loading="lazy" className="w-7"/>
                         <h4 className="ml-2 mt-2 font-semibold text-white">Terabot</h4>
                     </div>
                     <p className="text-white text-sm mt-5">Trabot is a platform that aims to help you travel around the world easily & quickly</p>

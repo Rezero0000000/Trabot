@@ -5,7 +5,7 @@ const Point = () => {
         <>
         <section className="px-5 xs:px-7 font-poppins sm:flex sm:items-center lg:mt-16 ">
             <div className="flex justify-center mt-20 xs:mt-24 sm:mt-20 p-5 md:p-0 sm:w-full">
-                <img src="/images/island.png" className="" alt="" />
+                <img src="/images/island.png" loading="lazy" alt="island" />
             </div>
             <div className="mt-32 sm:mt-[4.5rem] sm:w-full">
                 <p className="text-[#0E7D88] text-[12px] font-semibold md:text-sm lg:text-base">Adventure Point</p>
@@ -16,7 +16,7 @@ const Point = () => {
                 <ul className="grid grid-cols-2 gap-4 md:mt-10">
                     <li className="flex">
                     <div className="bg-[#097882] h-10 w-10 md:h-12 md:w-12 flex justify-center py-[px] rounded-full">
-                        <img src="/icons/map.svg" className="w-5 md:w-6" alt="" />
+                        <img src="/icons/map.svg" className="w-5 md:w-6" loading="lazy" alt="map" />
                     </div>
                     <div className="ml-3">
                         <h1 className="text-lg md:text-[1rem] lg:text-xl font-semibold">4,000+</h1>
@@ -25,7 +25,7 @@ const Point = () => {
                     </li>
                     <li className="flex">
                     <div className="bg-[#097882] h-10 w-10 md:h-12 md:w-12  rounded-full flex justify-center">
-                        <img src="/icons/map.svg" className="w-5" alt="" />
+                        <img src="/icons/building.svg" className="w-5" alt="building" loading="lazy" />
                     </div>
                     <div className="ml-3">
                         <h1 className="text-lg md:text-[1rem] lg:text-xl font-semibold">4217+</h1>
@@ -34,7 +34,7 @@ const Point = () => {
                     </li>            
                     <li className="flex mt-5">
                     <div className="bg-[#097882] h-10 w-10 md:h-12 md:w-12  rounded-full flex justify-center">
-                        <img src="/icons/map.svg" className="w-5" alt="" />
+                        <img src="/icons/user.svg" className="w-5 md:w-6" loading="lazy" alt="user" />
                     </div>
                     <div className="ml-3">
                         <h1 className="text-lg md:text-[1rem] lg:text-xl font-semibold">20M</h1>
@@ -42,8 +42,8 @@ const Point = () => {
                     </div>
                     </li>           
                     <li className="flex mt-5">
-                    <div className="bg-[#097882] h-10 xs:w-10 sm:w-[3.3rem] sm:h-[2.6rem] md:h-[3rem] w-[3.8rem] rounded-full flex justify-center">
-                        <img src="/icons/map.svg" className="w-5" alt="" />
+                    <div className="bg-[#097882] h-10 xs:w-10 sm:w-[3.3rem] sm:h-[2.6rem] md:h-[3rem] md:w-12 w-16 mm:w-12 rounded-full flex justify-center">
+                        <img src="/icons/ticket.svg" className="w-5 md:w-6" loading="lazy" alt="ticket" />
                     </div>
                     <div className="ml-3">
                         <h1 className="text-xl font-semibold">50%</h1>

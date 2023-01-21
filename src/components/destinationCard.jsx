@@ -6,7 +6,7 @@ const DestinationCard = (props) => {
         <>
             <div className="my-5 ">
                 <div className="flex justify-center sm:px-0 xs:px-20 px-5">
-                    <div className="flex justify-end items-end w-full bg-cover h-[26rem] xs:w-[20rem] mx-auto" style={{backgroundImage: `url(${image})`}}>
+                    <div className="flex justify-end items-end w-full bg-cover h-[26rem] xs:w-[20rem] mx-auto" loading="lazy" style={{backgroundImage: `url(${image})`}}>
                         <div className="bg-white bg-opacity-50  absolute">
                             <div className=" w-44 px-3 pb-5 pt-3 backdrop-blur-xl">
                                 <div className="relative">

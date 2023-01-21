@@ -17,15 +17,15 @@ const Nav = () => {
         <div className={ `font-bold text-2xl cursor-pointer xs:bg-transparent bg-white transition-all duration-500 ease-in flex px-7 py-4 items-center font-[Poppins] 
         text-gray-800 ${open ?  'backdrop-blur-xl':' md:backdrop-blur-0 '}`}>
           <div className="flex xs:font-medium ">
-              <img src="/icons/boat.svg" alt="" className="w-[1.7rem]"/>
+              <img src="/icons/boat.svg" loading="lazy" alt="Trabot" className="w-[1.7rem]"/>
               <h4 className="ml-2 mt-2  text-[#0E3344] xs:text-white text-sm">Terabot</h4>
           </div>
         </div>
       
         <div onClick={()=>setOpen(!open)} className='absolute right-8 top-[1.45rem] cursor-pointer md:hidden'>
           <div name={open ? 'close':'menu'} className="">
-            <img src="/icons/menu.svg" alt="" className='w-[1.35rem] hidden xs:block'/>
-            <img src="/icons/menu_black.svg" alt="" className='w-[1.35rem] xs:hidden'/>
+            <img src="/icons/menu.svg" loading="lazy" alt="menu" className='w-[1.35rem] hidden xs:block'/>
+            <img src="/icons/menu_black.svg" loading="lazy" alt="menu" className='w-[1.35rem] xs:hidden'/>
           </div>
         </div>
       <ul className={`md:flex  md:items-center md:pb-0 pb-12 mx-auto ] absolute md:static md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 transition-all duration-500 ease-in ${open ?  'top-14  md:backdrop-blur-0 backdrop-blur-xl':'top-[-490px]'}`}>

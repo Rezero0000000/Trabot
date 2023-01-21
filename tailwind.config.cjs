@@ -8,6 +8,9 @@ module.exports = {
       'poppins' : "Poppins"
     },
     screens : {
+      // Mobile medium
+      'mm' : "375px",
+      // Mobile large
       'xs' : "420px",
       'sm' : "648px",
       'md' : "768px",
