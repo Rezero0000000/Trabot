@@ -24,7 +24,7 @@ const Destination = () => {
                 <p className="text-[12px] font-semibold text-[#097882]">Our destination</p>
                 <h1 className="px-20 text-center font-semibold mt-1 text-2xl sm:w-full xs:text-[1.6rem] xs">Recommended Destination For You</h1>
             </div>
-            <div className="mt-7 sm:grid sm:grid-cols-2 sm:px-5 gap-5 md:grid-cols-3 xl:grid-cols-4 lg:px-10">
+            <div className="mt-7 grid grid-cols-1 sm:grid sm:grid-cols-2 sm:px-5 gap-5 md:grid-cols-3 xl:grid-cols-4 lg:px-10">
                 {
                     destinations.map((destination)=>(
                         <DestinationCard key={destination.id} name={destination.name} location={destination.location} price={destination.price} image={destination.image} />
