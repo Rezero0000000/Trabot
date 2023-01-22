@@ -13,7 +13,7 @@ const Nav = () => {
 
   return (
     <div className='w-full'>
-      <div className={`md:flex items-center justify-between h-20 md:px-10 transition-all duration-500 ease-in ${open ?  'bg-white shadow-lg shadow-white md:bg-transparent md:shadow-none':'shadow-none'}`}>
+      <div className={`md:flex items-center justify-between h-20 md:px-10 transition-all duration-500 ease-in ${open ?  'bg-white shadow-xl shadow-white md:bg-transparent md:shadow-none':'shadow-none'}`}>
         <div className={ `font-bold text-2xl cursor-pointer transition-all duration-500 ease-in flex px-7 py-4 items-center font-[Poppins] 
         text-gray-800`}>
           <div className="flex xs:font-medium ">
