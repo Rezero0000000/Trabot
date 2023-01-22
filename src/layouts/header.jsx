@@ -14,7 +14,7 @@ const Header = () => {
           <a href="" className="bg-[#0E3344] py-[10px] px-5 rounded-full text-[11px] xs:px-6 sm:px-7 lg:px-10 lg:py-[0.85rem] text-white">Get Started</a>
         </div>
         <div className="">
-         <div className="mt-5 xs:mt-0 bg-cover bg-right md:bg-center w-full h-[60vh] lg:h-[630px] md:h-[500px] flex " style={{backgroundImage: 'url("./images/boot.png")'}}>
+         <div className="mt-5 xs:mt-0 bg-cover bg-right md:bg-center w-full h-[60vh] lg:h-[630px] md:h-[500px] flex " style={{backgroundImage: 'url("./images/Boat.jpg")'}}>
         </div>
         </div>
       </section>

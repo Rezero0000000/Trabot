@@ -13,25 +13,25 @@ import "./style.css";
 const blogs = [
     {   
         id: 1,
-        image: "/images/blog/blog_1.png",
+        image: "/images/blog/blog_1.webp",
         title: "20+ Popular Destination",
         description: "We summarize 20 more tours based on most popular & frequently visited"
     },
     {   
         id: 2,
-        image: "/images/blog/blog_2.png",
+        image: "/images/blog/blog_2.webp",
         title: "20+ Popular Destination",
         description: "We summarize 20 more tours based on most popular & frequently visited"
     },
     {   
         id: 3,
-        image: "/images/blog/blog_3.png",
+        image: "/images/blog/blog_3.webp",
         title: "20+ Popular Destination",
         description: "We summarize 20 more tours based on most popular & frequently visited"
     },
     {   
         id: 4,
-        image: "/images/blog/blog_3.png",
+        image: "/images/blog/blog_3.webp",
         title: "20+ Popular Destination",
         description: "We summarize 20 more tours based on most popular & frequently visited"
     },
