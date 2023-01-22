@@ -17,7 +17,7 @@ const Nav = () => {
         <div className={ `font-bold text-2xl cursor-pointer transition-all duration-500 ease-in flex px-7 py-4 items-center font-[Poppins] 
         text-gray-800`}>
           <div className="flex xs:font-medium ">
-              <img src="/icons/boat.svg" alt="" className="w-[1.7rem]"/>
+              <img src="/icons/boat.svg" alt="boat" loading="lazy" className="w-[1.7rem]"/>
               <h4 className={`ml-2 mt-2  text-sm xs:text-lg font-semibold ${open ? 'md:text-white text-[#0E3344] ' : 'text-[#0E3344] xs:text-white'}`}>Terabot</h4>
           </div>
         </div> 
