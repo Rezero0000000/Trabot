@@ -15,4 +15,4 @@ A responsive landing page about travel build with React, Vite, and Tailindcss.
 ## Author
 
 - Instagram - [@re.kunn](https://www.instagram.com/re.kunnn)
-- Facebook - [@re](https://https://www.facebook.com/profile.php?id=100057378866749)
+- Facebook  - [Rekun](https://www.facebook.com/profile.php?id=100057378866749)
