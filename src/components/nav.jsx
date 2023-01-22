@@ -23,7 +23,7 @@ const Nav = () => {
         </div> 
         <div onClick={()=>setOpen(!open)} className='absolute right-8 top-[1.45rem] cursor-pointer md:hidden'>
           <div name={open ? 'close':'menu'} className="">
-            <img src="/icons/menu.svg" alt="menu" lazy="load" className={`w-[1.35rem] ${open ? 'hidden':'block'}`}/>
+            <img src="/icons/menu.svg" alt="menu" lazy="load" className={`w-[1.35rem] ${open ? 'hidden':'xs:block hidden'}`}/>
             <img src="/icons/menu_black.svg" alt="menu" lazy="load" className={`w-[1.35rem] ${open ? 'block':'block xs:hidden'}`}/>
           </div>
         </div>
