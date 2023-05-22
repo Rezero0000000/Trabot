@@ -1,6 +1,6 @@
 # Trabot
 
-A responsive landing page about travel build with React, Vite, and Tailindcss.
+A responsive landing page about travel build with React, Vite, and Tailwindcss.
 
 ### Screenshot
 <div style="display:flex;">
